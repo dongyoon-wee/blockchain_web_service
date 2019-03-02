@@ -24,6 +24,10 @@ npm install crypto-js --save
 ```
 npm install level --save
 ```
+- Install express with --save flag
+```
+npm install express --save
+```
 
 ## Running web-service
 ```
